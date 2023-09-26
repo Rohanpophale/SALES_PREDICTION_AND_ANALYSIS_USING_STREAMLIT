@@ -24,11 +24,11 @@ RESULT
 
 OUTPUT:
 
-<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/dc5ddc81-865a-4118-b292-8a75df0107ab">
+<img width="700" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/dc5ddc81-865a-4118-b292-8a75df0107ab">
 
 The fig. 4.1 represents the landing page and the landing page consists of two key sections: a 'Filtering Section' for user data input and a 'Main Content Section' that dynamically reflects filtered data changes.
 
-<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/d62442ad-37d0-4684-9355-0cae58561d00">
+<img width="700" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/d62442ad-37d0-4684-9355-0cae58561d00">
 
 The fig 4.2 shows upon selecting and filtering data in the 'Filter Section,' the 'Main Content Section' displays line chart visualizations based on the filtered information.
 
