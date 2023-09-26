@@ -15,6 +15,8 @@ Sales prediction serves as the foundation of effective business strategy. It gui
 
 METHODOLOGY:
 
+<img width="500" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/9a6ae26d-a262-4fc5-b8eb-6f343c4a6dc6">
+
 ![image](https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/99483a1e-74de-4c46-a7c3-de8e9577b244)
 
 RESULT
