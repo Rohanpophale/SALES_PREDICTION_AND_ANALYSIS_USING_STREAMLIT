@@ -17,27 +17,26 @@ METHODOLOGY:
 
 <img width="500" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/9a6ae26d-a262-4fc5-b8eb-6f343c4a6dc6">
 
-![image](https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/99483a1e-74de-4c46-a7c3-de8e9577b244)
 
 RESULT
 
-<img width="960" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/3bfae539-028b-4907-bebb-35e9f634804b">
+<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/3bfae539-028b-4907-bebb-35e9f634804b">
 
 OUTPUT:
 
-![image](https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/dc5ddc81-865a-4118-b292-8a75df0107ab)
+<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/dc5ddc81-865a-4118-b292-8a75df0107ab">
 
 The fig. 4.1 represents the landing page and the landing page consists of two key sections: a 'Filtering Section' for user data input and a 'Main Content Section' that dynamically reflects filtered data changes.
 
-![image](https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/d62442ad-37d0-4684-9355-0cae58561d00)
+<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/d62442ad-37d0-4684-9355-0cae58561d00">
 
 The fig 4.2 shows upon selecting and filtering data in the 'Filter Section,' the 'Main Content Section' displays line chart visualizations based on the filtered information.
 
-![image](https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/636eeded-1dee-475a-85a5-7bf034afec47)
+<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/636eeded-1dee-475a-85a5-7bf034afec47">
 
 In addition to line chart visualizations, fig 4.3 presents bar chart visualizations for the same filtered data or information selected in the 'Filter Section.'
 
-![image](https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/7d6f0a59-da08-45e7-a5f3-cd299520d191)
+<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/7d6f0a59-da08-45e7-a5f3-cd299520d191">
 
 The fig 4.4 shows the pie chart displayed above which reflects the distribution of data selected through the filtration section, categorizing it based on its respective Categories.
 
