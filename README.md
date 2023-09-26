@@ -32,11 +32,11 @@ The fig. 4.1 represents the landing page and the landing page consists of two ke
 
 The fig 4.2 shows upon selecting and filtering data in the 'Filter Section,' the 'Main Content Section' displays line chart visualizations based on the filtered information.
 
-<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/636eeded-1dee-475a-85a5-7bf034afec47">
+<img width="700" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/636eeded-1dee-475a-85a5-7bf034afec47">
 
 In addition to line chart visualizations, fig 4.3 presents bar chart visualizations for the same filtered data or information selected in the 'Filter Section.'
 
-<img width="800" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/7d6f0a59-da08-45e7-a5f3-cd299520d191">
+<img width="700" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/7d6f0a59-da08-45e7-a5f3-cd299520d191">
 
 The fig 4.4 shows the pie chart displayed above which reflects the distribution of data selected through the filtration section, categorizing it based on its respective Categories.
 
