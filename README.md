@@ -6,23 +6,23 @@ challenge. The proposed system harnesses the power of Python, a versatile and
 widely-used language, to create a predictive and analytical tool. By leveraging 
 historical sales data and employing advanced machine learning techniques
 
-TITLE:
+<h3>TITLE:</h3>
 SALES PREDICTION AND ANALYSIS USING STREAMLIT
 
-INTRODUCTION:
+<h3>INTRODUCTION:</h3>
 
 Sales prediction serves as the foundation of effective business strategy. It guides decisions regarding resource allocation, inventory management, marketing initiatives, and financial planning. However, the art of prediction is not a matter of chance; it requires systematic data analysis and the development of robust predictive models. The proposed system seeks to address this challenge by offering a comprehensive solution. It seamlessly integrates data collection, meticulous data preprocessing, the application of advanced machine learning techniques, and intuitive data visualization into a unified framework
 
-METHODOLOGY:
+<h3>METHODOLOGY:</h3>
 
 <img width="500" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/9a6ae26d-a262-4fc5-b8eb-6f343c4a6dc6">
 
 
-RESULT
+<h3>RESULT:</h3>
 
 <img width="700" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/3bfae539-028b-4907-bebb-35e9f634804b">
 
-OUTPUT:
+<h3>OUTPUT:</h3>
 
 <img width="700" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/dc5ddc81-865a-4118-b292-8a75df0107ab">
 
@@ -40,7 +40,7 @@ In addition to line chart visualizations, fig 4.3 presents bar chart visualizati
 
 The fig 4.4 shows the pie chart displayed above which reflects the distribution of data selected through the filtration section, categorizing it based on its respective Categories.
 
-<h2>HOW TO RUN</h2>
+<h3>HOW TO RUN</h3>
 1. Dataset : JustDial_sales_data.csv
 
 2. Python streamlit Library
