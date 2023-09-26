@@ -40,7 +40,7 @@ In addition to line chart visualizations, fig 4.3 presents bar chart visualizati
 
 The fig 4.4 shows the pie chart displayed above which reflects the distribution of data selected through the filtration section, categorizing it based on its respective Categories.
 
-
+<h2>HOW TO RUN</h2>
 1. Dataset : JustDial_sales_data.csv
 
 2. Python streamlit Library
