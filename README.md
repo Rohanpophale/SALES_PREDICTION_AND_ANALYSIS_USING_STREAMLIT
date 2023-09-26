@@ -20,7 +20,7 @@ METHODOLOGY:
 
 RESULT
 
-<img width="500" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/3bfae539-028b-4907-bebb-35e9f634804b">
+<img width="700" alt="2" src="https://github.com/Rohanpophale/SALES_PREDICTION_AND_ANALYSIS_USING_STREAMLIT/assets/97818946/3bfae539-028b-4907-bebb-35e9f634804b">
 
 OUTPUT:
 
